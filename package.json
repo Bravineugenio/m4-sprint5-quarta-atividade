@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Awesome project developed with TypeORM.",
   "type": "commonjs",
+  "license": "MIT",
+  "private": true,
   "scripts": {
     "dev": "ts-node-dev --watch --transpile-only src/server.ts",
     "typeorm": "typeorm-ts-node-commonjs"
